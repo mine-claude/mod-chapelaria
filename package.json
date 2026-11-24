@@ -1,0 +1,15 @@
+{
+  "name": "chapelaria",
+  "version": "0.1.0",
+  "description": "Seis chapéus para vestir no lugar do capacete: palha, cartola, boné, gorro, chapéu de bruxo e coroa. Só visual, sem armadura.",
+  "authors": [
+    "MineClaude"
+  ],
+  "private": true,
+  "scripts": {
+    "main": "dist/main/main.js",
+    "_sources": {
+      "main": "src/main.ts"
+    }
+  }
+}
